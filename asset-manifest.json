@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/to-do-form/static/css/main.f12ff8f7.css",
+    "main.js": "/to-do-form/static/js/main.f7c51b1a.js",
+    "index.html": "/to-do-form/index.html",
+    "main.f12ff8f7.css.map": "/to-do-form/static/css/main.f12ff8f7.css.map",
+    "main.f7c51b1a.js.map": "/to-do-form/static/js/main.f7c51b1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f12ff8f7.css",
+    "static/js/main.f7c51b1a.js"
+  ]
+}
